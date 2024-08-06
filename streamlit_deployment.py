@@ -8,6 +8,8 @@ Original file is located at
 """
 
 
+torch==1.10.0+cpu  # Specify the appropriate version and build
+torchvision==0.11.1+cpu  # Match the version to PyTorch
 
 #Steamlit
 import streamlit as st
