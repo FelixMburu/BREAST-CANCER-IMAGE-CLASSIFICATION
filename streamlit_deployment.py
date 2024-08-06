@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/134O806vspNxSCfsimVPOixFu2_LQi0p2
 """
 
-
-torch==1.10.0+cpu  # Specify the appropriate version and build
-torchvision==0.11.1+cpu  # Match the version to PyTorch
-
 #Steamlit
 import streamlit as st
 import torch
