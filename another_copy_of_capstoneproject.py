@@ -67,7 +67,6 @@ Data Source: Kaggles Breast Cancer Images dataset. The dataset contains images o
 """
 
 # Install Kaggle and set up the API token
-!pip install kaggle
 !mkdir -p ~/.kaggle
 !cp kaggle.json ~/.kaggle/
 !chmod 600 ~/.kaggle/kaggle.json
