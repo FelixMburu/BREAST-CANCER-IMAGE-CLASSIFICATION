@@ -6,4 +6,7 @@ pandas
 Pillow
 matplotlib
 scikit-learn
+torch==1.10.0+cpu  # Specify the appropriate version and build
+torchvision==0.11.1+cpu  # Match the version to PyTorch
+
 # any other necessary libraries
